@@ -1,0 +1,2386 @@
+A19009 - by Chelsea Dorich
+
+The number of stations in the file: 176
+KABI - Abilene Regional Airport
+   Latitude:	32-25N
+   Longitude:	099-41W
+   Elevation:	546
+   Station Weather for ABI      2230+18 2726+12 2929+04 3127-12 3028-26 302942 313952 294360
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KABQ - Albuquerque International Airport
+   Latitude:	35-02N
+   Longitude:	106-36W
+   Elevation:	1631
+   Station Weather for ABQ              2926+13 2923+04 2832-13 2839-27 285041 285251 285561
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KABR - Aberdeen Regional Airport
+   Latitude:	45-27N
+   Longitude:	098-25W
+   Elevation:	397
+   Station Weather for ABR 3531 3333+02 3135-05 2859-08 2768-21 2672-33 278348 279158 287559
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for ACK 3423 2919-08 2927-10 3031-14 3236-25 3139-36 283848 264149 245349
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KACY - Atlantic City International
+   Latitude:	39-28N
+   Longitude:	74-35W
+   Elevation:	23
+   Station Weather for ACY 3205 2820-02 2924-08 3022-12 3028-24 3136-35 303851 293954 274451
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for AGC 2515 2926-01 2921-04 3119-10 3233-20 3345-33 345550 335956 314657
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KALB - Albany International Airport
+   Latitude:	42-45N
+   Longitude:	73-48W
+   Elevation:	87
+   Station Weather for ALB 3121 3122-04 3126-08 3131-13 3137-25 3236-36 323951 313855 284053
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KALS - San Luis Valley Regional
+   Latitude:	37-26N
+   Longitude:	105-52W
+   Elevation:	2297
+   Station Weather for ALS                      2832+03 2930-14 2835-28 284642 285153 274861
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KAMA - Amarillo International Airport
+   Latitude:	35-13N
+   Longitude:	101-43W
+   Elevation:	1099
+   Station Weather for AMA      2932    2828+14 2726+05 2929-14 2837-27 294042 294753 285561
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KAST - Port Of Astoria Airport
+   Latitude:	46-09N
+   Longitude:	123-53W
+   Elevation:	3
+   Station Weather for AST 3510 3011+01 2913-03 2919-05 2735-17 2938-28 305045 305555 305463
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KATL - Hartsfield-jackson Atlanta
+   Latitude:	33-39N
+   Longitude:	84-26W
+   Elevation:	313
+   Station Weather for ATL 3110 3007+03 3117+03 3120-02 3027-15 3134-29 314644 305153 287057
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KAVP - Wilkes-barre/scranton International
+   Latitude:	41-20N
+   Longitude:	75-44W
+   Elevation:	293
+   Station Weather for AVP 3115 3024-02 3022-07 3018-11 3126-25 3135-36 314051 314055 294154
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for AXN 3339 3140+02 2845-03 2760-09 2677-20 2683-33 278949 279258 277358
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for BAM              2917+06 2719-02 2829-16 2934-29 284345 274854 285760
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for BCE                      2826+02 2829-14 2736-27 274543 275752 276061
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KBDL - Bradley International Airport
+   Latitude:	41-56N
+   Longitude:	072-41W
+   Elevation:	53
+   Station Weather for BDL 3322 3221-05 3125-08 3229-13 3234-25 3239-37 314250 303953 263651
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KBFF - Scottsbluff Heilig Field
+   Latitude:	41-52N
+   Longitude:	103-36W
+   Elevation:	1209
+   Station Weather for BFF      0431    3019+06 2936-02 2747-18 2847-30 285446 286456 277561
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for BGR 3237 3233-10 3137-12 3141-16 3253-27 3253-38 304648 274749 244747
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KBHM - Birmingham Int'l Airport
+   Latitude:	33-34N
+   Longitude:	086-45W
+   Elevation:	196
+   Station Weather for BHM 2607 2612+06 3314+04 3219-01 3017-15 3027-28 303544 304353 286358
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KBIH - Bishop Airport
+   Latitude:	37-22N
+   Longitude:	118-22W
+   Elevation:	1256
+   Station Weather for BIH      9900    3007+09 2808+02 2723-14 2635-28 264343 264952 265859
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KBIL - Logan International Airport
+   Latitude:	45-49N
+   Longitude:	108-33W
+   Elevation:	1112
+   Station Weather for BIL      2910    2922-04 2923-11 2841-23 2852-35 276349 286555 285955
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for BLH 2217 2312+19 2513+12 2521+04 2524-13 2730-25 274240 276249 278558
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KBML - Berlin Municipal Airport
+   Latitude:	44-35N
+   Longitude:	71-11W
+   Elevation:	353
+   Station Weather for BML 3024 3138-09 3241-10 3138-14 3140-26 3144-37 314450 294553 274149
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KBNA - Nashville International Airport
+   Latitude:	36-07N
+   Longitude:	086-41W
+   Elevation:	183
+   Station Weather for BNA 2318 2615+07 3220+03 3124-02 2924-16 2932-29 304145 314054 295563
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KBOI - Boise Air Terminal
+   Latitude:	43-34N
+   Longitude:	116-14W
+   Elevation:	871
+   Station Weather for BOI      3416+07 2925+01 2835-05 2935-17 3131-29 324547 315256 295260
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KBOS - Boston Logan International
+   Latitude:	42-22N
+   Longitude:	071-01W
+   Elevation:	6
+   Station Weather for BOS 3323 3224-07 3128-09 3232-14 3235-26 3141-37 303949 283751 244450
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for BRL 2246 2737+10 2823+03 2828-03 2837-18 2841-30 294445 295255 285766
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KBRO - Brownsville/south Padre Is
+   Latitude:	25-54N
+   Longitude:	97-25W
+   Elevation:	7
+   Station Weather for BRO 1723 1817+13 2808+10 3018+05 3024-10 2824-22 273839 265148 256451
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KBUF - Greater Buffalo International Airport
+   Latitude:	42-56N
+   Longitude:	078-44W
+   Elevation:	221
+   Station Weather for BUF 2520 2726-02 2825-05 2923-11 3129-22 3243-34 335251 324957 304156
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KCAE - Columbia Metropolitan Airport
+   Latitude:	33-57N
+   Longitude:	081-07W
+   Elevation:	72
+   Station Weather for CAE 9900 2607+03 2711-01 2924-04 3135-17 3243-30 325446 315752 287353
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KCAR - Caribou Municipal Airport
+   Latitude:	46-52N
+   Longitude:	68-01W
+   Elevation:	191
+   Station Weather for CAR 3233 3135-13 3143-15 3149-19 3256-29 3264-39 305046 275347 254644
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for CGI 2434 2621+09 2825+04 3028-03 3032-17 2933-29 294345 294054 295463
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KCHS - Charleston Int'l Airport
+   Latitude:	32-54N
+   Longitude:	080-02W
+   Elevation:	14
+   Station Weather for CHS 9900 2806+04 2912-01 3022-04 3137-17 3044-31 295346 296650 288451
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KCLE - Cleveland-hopkins International
+   Latitude:	41-24N
+   Longitude:	081-51W
+   Elevation:	241
+   Station Weather for CLE 2427 2725+01 3122-02 3122-10 3133-19 3243-32 325148 326557 315361
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for CLL 2124 2314+13 9900+08 3312+01 3019-14 2929-25 293741 294251 275354
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KCMH - Port Columbus International Airport
+   Latitude:	40-00N
+   Longitude:	82-53W
+   Elevation:	248
+   Station Weather for CMH 2321 2629+01 3118-02 3118-08 3140-18 3244-31 324847 326057 315662
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KCOU - Columbia Regional Airport
+   Latitude:	38-49N
+   Longitude:	092-13W
+   Elevation:	271
+   Station Weather for COU 2249 2734+13 2929+06 2829-01 2835-17 2842-29 295045 294854 295564
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KCRP - Corpus Christi International
+   Latitude:	27-46N
+   Longitude:	97-31W
+   Elevation:	13
+   Station Weather for CRP 1923 1914+13 2909+09 3015+03 3026-11 2936-24 294740 275250 256651
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KCRW - Yeager Airport
+   Latitude:	38-22N
+   Longitude:	081-36W
+   Elevation:	299
+   Station Weather for CRW 2409 2722+00 2923-03 3025-07 3243-19 3249-32 336147 336856 315058
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for CSG 3308 3306+05 3115+04 3219-02 3018-14 3128-28 304444 295352 287056
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KCVG - Cincinnati/northern Ky International
+   Latitude:	39-03N
+   Longitude:	084-40W
+   Elevation:	273
+   Station Weather for CVG 2423 2623+03 3119-01 3023-05 3139-18 3038-30 304247 315356 316064
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for CZI              2712-01 2831-06 2749-20 2755-33 276648 276956 286960
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for DAL 2139 2323+15 2615+09 3119+02 3121-14 2923-26 313142 302952 294558
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KDBQ - Dubuque Regional Airport
+   Latitude:	42-24N
+   Longitude:	90-42W
+   Elevation:	328
+   Station Weather for DBQ 2352 2634+10 2822+03 2927-04 2840-19 2844-31 284346 295456 286466
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KDEN - Denver International Airport
+   Latitude:	39-52N
+   Longitude:	104-40W
+   Elevation:	1655
+   Station Weather for DEN              3127+10 3030+01 2930-17 2834-29 275144 276154 276861
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for DIK      3230+01 3036-07 3146-15 2859-24 2766-34 277949 278356 286355
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KDLH - Duluth, Duluth International Airport
+   Latitude:	46-50-34N
+   Longitude:	092-13-34W
+   Elevation:	435
+   Station Weather for DLH 3346 2845+04 2655-02 2565-08 2677-22 2681-34 278349 278658 276656
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for DLN              3017-04 3022-09 2939-22 3044-32 305248 305856 296257
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KDRT - Del Rio International Airport
+   Latitude:	29-22N
+   Longitude:	100-55W
+   Elevation:	304
+   Station Weather for DRT 1736 1827+14 2610+11 3021+04 3329-11 3126-24 293040 293450 284556
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KDSM - Des Moines International
+   Latitude:	41-32N
+   Longitude:	93-40W
+   Elevation:	292
+   Station Weather for DSM 2345 2725+13 2822+05 2827-03 2838-18 2840-30 295146 284855 285664
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for ECK 2439 2627+03 2927-03 2929-11 3033-19 3142-32 315048 316457 315362
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KEKN - Jennings Randolph Field
+   Latitude:	38-53N
+   Longitude:	079-51W
+   Elevation:	606
+   Station Weather for EKN      2925-01 2924-06 3024-09 3233-20 3348-33 335949 336355 314755
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KELP - El Paso International Airport
+   Latitude:	31-49N
+   Longitude:	106-23W
+   Elevation:	1206
+   Station Weather for ELP      2611    2820+14 2828+06 2723-11 2630-25 293240 304150 295657
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KELY - Ely Airport (yelland Field)
+   Latitude:	39-18N
+   Longitude:	114-51W
+   Elevation:	1907
+   Station Weather for ELY              3114+08 2718+01 2727-16 2832-28 274745 275353 265561
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for EMI 3214 3025-02 2918-07 2819-12 3127-23 3132-35 313451 314054 294353
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KEVV - Evansville Regional
+   Latitude:	38-02N
+   Longitude:	087-32W
+   Elevation:	127
+   Station Weather for EVV 2429 2614+07 3220+02 3030-04 2929-17 2834-30 294645 304555 295164
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KEYW - Key West International Airport
+   Latitude:	24-33N
+   Longitude:	81-46W
+   Elevation:	1
+   Station Weather for EYW 0612 0810+09 3118+12 2821+05 2737-07 2650-19 256334 257344 269056
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KFAT - Fresno Air Terminal
+   Latitude:	36-47N
+   Longitude:	119-43W
+   Elevation:	101
+   Station Weather for FAT 0205 9900+14 2305+08 2509+02 2623-14 2533-27 264643 265152 265658
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KGPI - Glacier Park International Airport
+   Latitude:	48-18N
+   Longitude:	114-16W
+   Elevation:	906
+   Station Weather for GPI      2719+01 2817-07 2722-12 3031-22 3048-35 306351 307058 295654
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for FLO 3206 2709+03 2814-03 2924-05 3134-18 3144-32 325347 305551 286951
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for FMN              2925+11 2826+03 2832-14 2835-27 285342 285351 275562
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for FOT 0112 0105+11 9900+05 2507-01 2616-15 2715-28 280945 260953 272760
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KFSD - Sioux Falls Foss Field
+   Latitude:	43-35N
+   Longitude:	096-45W
+   Elevation:	436
+   Station Weather for FSD 0137 3519+09 2519+04 2629-05 2751-19 2756-32 276647 287357 287562
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KFSM - Fort Smith Regional Airport
+   Latitude:	35-20N
+   Longitude:	94-22W
+   Elevation:	143
+   Station Weather for FSM 2239 2428+14 2724+08 2821+00 2928-16 2932-27 303844 303953 294561
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KFWA - Fort Wayne International
+   Latitude:	41-00N
+   Longitude:	85-12W
+   Elevation:	248
+   Station Weather for FWA 2435 2518+05 2919-01 3024-08 3038-18 2937-31 293947 305056 305965
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for GAG      2327+21 2521+13 2724+04 3127-14 2830-28 284143 294353 284662
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for GCK      2220+20 2523+12 2730+03 2832-16 2834-29 284244 285253 286263
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KGEG - Spokane International Airport
+   Latitude:	47-37N
+   Longitude:	117-32W
+   Elevation:	723
+   Station Weather for GEG      2714+00 2713-05 2819-09 2935-20 2949-32 306748 307758 306659
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for GFK 3143 3242-02 3142-09 3049-16 2868-23 2784-35 279250 278455 286653
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KGGW - Glasgow International Airport
+   Latitude:	48-13N
+   Longitude:	106-37W
+   Elevation:	699
+   Station Weather for GGW      3223+01 3130-08 3044-15 3045-26 2950-37 286351 286455 295853
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KGJT - Grand Junction Walker Field
+   Latitude:	39-08N
+   Longitude:	108-32W
+   Elevation:	1481
+   Station Weather for GJT              2818+10 2723+02 2830-16 2743-29 285644 276453 276361
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KGLD - Goodland Renner Field
+   Latitude:	39-22N
+   Longitude:	101-42W
+   Elevation:	1114
+   Station Weather for GLD      3122    3220+11 3018+03 2725-17 2733-30 284744 286054 277162
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KGRB - Austin Straubel International Airport
+   Latitude:	44-29N
+   Longitude:	088-08W
+   Elevation:	212
+   Station Weather for GRB 2462 2743+08 2734+01 2836-06 2741-19 2746-32 285447 296858 286665
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KGRI - Central Nebraska Regional
+   Latitude:	40-58N
+   Longitude:	98-19W
+   Elevation:	563
+   Station Weather for GRI      2517+17 2623+09 2831+00 2844-17 2851-30 285646 295956 287662
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KGSP - Greer Greenville Spartburg
+   Latitude:	34-53N
+   Longitude:	82-13W
+   Elevation:	296
+   Station Weather for GSP 3506 2308+03 2815-02 3024-04 3138-17 3144-30 325146 315854 296257
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KGTF - Great Falls International
+   Latitude:	47-28N
+   Longitude:	111-23W
+   Elevation:	1120
+   Station Weather for GTF      3125    3124-06 2817-13 3033-24 3048-35 315650 306156 295855
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for H51 9900 0705+12 2910+09 3016+04 2927-10 2833-23 274339 265648 257252
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for H52 0410 0506+12 3312+09 3217+03 2926-10 2842-22 276037 267746 258254
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for H61 0412 0609+08 3212+09 3113+02 2830-11 2760-20 267437 268546 269455
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KHAT - Cape Hatteras
+   Latitude:	35-16N
+   Longitude:	075-33W
+   Elevation:	2
+   Station Weather for HAT 2916 2817+02 2919-06 3025-09 3033-21 3041-34 294348 275848 276849
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for HOU 2314 2211+11 3005+08 3410+02 2921-13 2830-25 284341 285250 266552
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KHSV - Huntsville International Jones Field
+   Latitude:	34-39N
+   Longitude:	086-47W
+   Elevation:	192
+   Station Weather for HSV 2411 2613+06 3316+04 3221-01 2921-16 2931-28 313544 303854 295960
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KICT - Wichita Mid-continent Airport
+   Latitude:	37-39N
+   Longitude:	97-26W
+   Elevation:	406
+   Station Weather for ICT 2053 2445+18 2627+10 2722+02 3022-15 2839-28 294643 305054 295663
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for ILM 3210 2815+03 2721-05 3025-06 3034-20 3044-33 294947 285749 276850
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for IMB              2722-01 2825-04 2829-16 2837-30 304345 304856 305562
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KIND - Indianapolis International Airport
+   Latitude:	39-43N
+   Longitude:	86-17W
+   Elevation:	243
+   Station Weather for IND 2433 2617+06 3217+00 3126-07 2834-17 2937-31 294346 305256 306065
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for INK      2419+22 2619+13 2722+05 2934-11 2935-26 282741 294150 294859
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KINL - Falls International Airport
+   Latitude:	48-34N
+   Longitude:	093-24W
+   Elevation:	361
+   Station Weather for INL 3142 3037-03 2943-09 2848-15 2770-24 2691-34 269250 277954 275750
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KJAN - Jackson, Jackson International Airport
+   Latitude:	32-19-11N
+   Longitude:	090-04-39W
+   Elevation:	105
+   Station Weather for JAN 2413 3309+09 3511+05 3213+00 3121-15 3031-27 294243 294351 285956
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KJAX - Jacksonville International
+   Latitude:	30-30N
+   Longitude:	81-42W
+   Elevation:	9
+   Station Weather for JAX 3405 9900+05 3110+02 3119-01 3039-14 2849-27 276042 277150 268751
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KJFK - Kennedy International Airport
+   Latitude:	40-38N
+   Longitude:	073-46W
+   Elevation:	4
+   Station Weather for JFK 3223 3026-02 3028-08 3126-12 3231-25 3136-36 304451 294054 274152
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for JOT 2347 2641+07 2627+01 2731-06 2938-18 2943-31 294546 295656 296466
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KLAS - Mccarran International Airport
+   Latitude:	36-07N
+   Longitude:	115-16W
+   Elevation:	663
+   Station Weather for LAS      2315+19 2418+11 2522+03 2821-13 2633-27 275242 266052 277159
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KLBB - Lubbock International Airport
+   Latitude:	33-40N
+   Longitude:	101-49W
+   Elevation:	1000
+   Station Weather for LBB      2437+21 2628+13 2828+05 2927-13 2940-26 293242 294452 295161
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KLCH - Lake Charles Regional Airport
+   Latitude:	30-12N
+   Longitude:	093-23W
+   Elevation:	5
+   Station Weather for LCH 2308 9900+11 3007+07 3312+02 2819-14 2828-25 284241 285250 276352
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for LIT 2333 2417+12 3015+06 3218-01 2923-16 2930-27 303444 303353 294759
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for LKV              2514+03 2627-03 2830-16 2921-28 312545 323055 294061
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KLND - Lander Hunt Field
+   Latitude:	42-49N
+   Longitude:	108-44W
+   Elevation:	1703
+   Station Weather for LND              3024+04 2937-03 2847-20 2748-30 276047 276455 286362
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for LOU 2523 2721+05 3120+00 3026-03 3032-17 3039-30 304546 315055 315364
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KLRD - Laredo, Laredo International Airport
+   Latitude:	27-32-37N
+   Longitude:	099-27-41W
+   Elevation:	155
+   Station Weather for LRD 1734 1816+16 2808+12 3114+05 3223-10 2930-23 283940 274549 255352
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KLSE - La Crosse Municipal Airport
+   Latitude:	43-53N
+   Longitude:	091-15W
+   Elevation:	199
+   Station Weather for LSE 2452 2735+11 2834+03 2934-05 2843-20 2848-31 275347 276057 286865
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KLWS - Lewiston Nez Perce Co Airport
+   Latitude:	46-22N
+   Longitude:	117-01W
+   Elevation:	438
+   Station Weather for LWS 2913 2815+01 2616-06 2822-08 2934-18 3046-31 306347 317058 306459
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for MBW              2926    2935-02 2645-19 2750-32 286446 287255 287959
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for MCW 2336 2628+12 2829+03 2830-04 2841-19 2841-30 285447 285756 286264
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KMEM - Memphis International Airport
+   Latitude:	35-02N
+   Longitude:	089-59W
+   Elevation:	102
+   Station Weather for MEM 2425 2910+10 3221+05 3324-03 3028-16 3031-28 303144 303253 295160
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KMGM - Montgomery Dannelly Field
+   Latitude:	32-18N
+   Longitude:	86-24W
+   Elevation:	67
+   Station Weather for MGM 3205 9900+06 3213+05 3218-01 3016-14 2924-27 294143 295352 286856
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KMIA - Miami International Airport
+   Latitude:	25-47N
+   Longitude:	080-19W
+   Elevation:	4
+   Station Weather for MIA 0714 9900+06 3113+10 2918+04 2736-09 2665-19 257635 258545 269456
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for MKC 2357 2637+16 2730+08 2934-01 2936-18 2840-29 295545 295455 296164
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KMKG - Muskegon County Airport
+   Latitude:	43-10N
+   Longitude:	086-14W
+   Elevation:	191
+   Station Weather for MKG 2350 2646+05 2631-01 2732-08 2836-19 2844-32 294647 305257 305065
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KMLB - Melbourne International
+   Latitude:	28-06N
+   Longitude:	080-39W
+   Elevation:	10
+   Station Weather for MLB 0506 0308+04 3210+05 3121+01 2836-13 2658-23 269036 269946 760154
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KMLS - Miles City Wiley Field
+   Latitude:	46-26N
+   Longitude:	105-53W
+   Elevation:	801
+   Station Weather for MLS      3323+03 3137-04 3041-12 2856-24 2760-34 277149 277456 285855
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KMOB - Mobile Regional Airport
+   Latitude:	30-41N
+   Longitude:	88-14W
+   Elevation:	66
+   Station Weather for MOB 9900 9900+07 3206+06 3211+00 3123-14 2934-26 294342 285350 286853
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for MOT      3143-02 3041-10 3044-17 3058-25 2869-36 288050 287754 285853
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KMQT - Marquette
+   Latitude:	46-32N
+   Longitude:	087-33W
+   Elevation:	434
+   Station Weather for MQT 2461 2742+09 2740+00 2744-07 2752-20 2758-33 277449 278458 286561
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KMRF - Marfa
+   Latitude:	30-22N
+   Longitude:	104-01W
+   Elevation:	1478
+   Station Weather for MRF              2619+13 2924+06 3022-10 2924-25 282240 303750 295058
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KMSP - Minneapolis-st Paul International
+   Latitude:	44-52N
+   Longitude:	93-13W
+   Elevation:	256
+   Station Weather for MSP 3442 3029+08 2636+02 2644-06 2761-20 2772-33 278147 278157 277362
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KMSY - New Orleans International Airport
+   Latitude:	30-00N
+   Longitude:	90-15W
+   Elevation:	2
+   Station Weather for MSY 9900 9900+10 3306+07 3212+01 3124-13 2934-25 294541 285750 276552
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KOKC - Will Rogers World Airport
+   Latitude:	35-23N
+   Longitude:	97-36W
+   Elevation:	395
+   Station Weather for OKC 2059 2343+18 2632+12 2828+03 3020-15 2928-27 304043 304153 294462
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KOMA - Omaha Eppley Airfield
+   Latitude:	41-18N
+   Longitude:	095-54W
+   Elevation:	300
+   Station Weather for OMA 2329 2620+16 2729+07 2838-01 2945-19 2839-30 295546 294856 296563
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for ONL      0119+12 2807+06 2827-02 2855-19 2746-31 275746 275957 287762
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for ONT 2705 2412+17 2514+11 2515+03 2522-12 2631-24 265141 266650 279256
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KORF - Norfolk International Airport
+   Latitude:	36-54N
+   Longitude:	076-12W
+   Elevation:	8
+   Station Weather for ORF 3213 2812+01 2819-07 2824-10 3032-22 3036-35 293850 294650 275250
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for OTH 0414 9900+04 2814+02 2722-02 2725-15 2926-27 303244 323354 303063
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KPDX - Portland International Airport
+   Latitude:	45-35N
+   Longitude:	122-36W
+   Elevation:	8
+   Station Weather for PDX 3609 3009+02 2811-03 2818-05 2733-17 2936-29 304845 305255 305462
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for PFN 3607 9900+07 3109+05 3115+00 3021-14 2932-26 284642 285650 277652
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KPHX - Phoenix, Phoenix Sky Harbor International Airport
+   Latitude:	33-26-03N
+   Longitude:	112-03-04W
+   Elevation:	345
+   Station Weather for PHX 2606 2910+20 2912+12 2818+04 2625-13 2632-26 283740 285850 288758
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for PIE 0912 0908+06 3312+08 3116+01 2833-12 2751-23 268437 269547 269853
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KPIH - Pocatello Regional Airport
+   Latitude:	42-55N
+   Longitude:	112-36W
+   Elevation:	1356
+   Station Weather for PIH      3114    3026+03 2830-04 2842-21 2947-31 295347 286054 286260
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for PIR      3534+03 3046-02 2643-06 2757-20 2761-33 267547 278358 287461
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for PLB 2922 3025-06 3032-10 3037-14 3142-26 3249-36 324851 303854 284353
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for PRC              2615+11 2719+04 2729-13 2736-27 283941 285551 288359
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for PSB      2924-02 2920-06 3016-11 3125-23 3234-35 344351 324356 304555
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for PSX 2116 2111+12 2706+08 3208+03 2923-12 2934-24 294640 285750 266851
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KPUB - Pueblo Memorial Airport
+   Latitude:	38-17N
+   Longitude:	104-30W
+   Elevation:	1440
+   Station Weather for PUB              3032+11 3030+03 3028-15 2834-28 284143 285854 276062
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KPWM - Portland International Jetport
+   Latitude:	43-39N
+   Longitude:	70-18W
+   Elevation:	23
+   Station Weather for PWM 3227 3129-08 3232-10 3134-15 3140-26 3244-38 314249 284051 254249
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KRAP - Rapid City Regional Airport
+   Latitude:	44-03N
+   Longitude:	103-03W
+   Elevation:	976
+   Station Weather for RAP      3532+03 3233-03 2633-05 2756-20 2858-33 277248 277857 287160
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KRBL - Red Bluff Municipal Airport
+   Latitude:	40-09N
+   Longitude:	122-15W
+   Elevation:	106
+   Station Weather for RBL 1605 9900+11 9900+05 2407-01 2718-15 2721-28 272145 262953 273560
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for RDM      9900+03 2520+00 2725-03 2728-16 2833-29 303945 314355 304862
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KRDU - Raleigh-durham International Airport
+   Latitude:	35-54N
+   Longitude:	078-46W
+   Elevation:	133
+   Station Weather for RDU 3311 3014+02 2818-06 2929-07 3037-20 3048-34 325948 315652 285650
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KRIC - Richmond International Airport
+   Latitude:	37-31N
+   Longitude:	077-19W
+   Elevation:	51
+   Station Weather for RIC 3412 3110+00 2918-07 2823-10 3032-22 3035-35 303949 304551 284851
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KRKS - Rock Springs-sweetwater Co
+   Latitude:	41-36N
+   Longitude:	109-03W
+   Elevation:	2060
+   Station Weather for RKS              2823    2833-02 2841-18 2750-30 286045 275955 277560
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KRNO - Reno/tahoe International Airport
+   Latitude:	39-29N
+   Longitude:	119-46W
+   Elevation:	1345
+   Station Weather for RNO      2814    2606+07 2211+00 2726-16 2829-28 273445 264153 264560
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KROA - Roanoke Regional Airport
+   Latitude:	37-19N
+   Longitude:	079-58W
+   Elevation:	358
+   Station Weather for ROA 3407 2919+00 2825-05 2924-08 3140-21 3352-33 336449 326654 304952
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KROW - Roswell Industrial Air Centr
+   Latitude:	33-18N
+   Longitude:	104-32W
+   Elevation:	1118
+   Station Weather for ROW      2523    2715+14 2916+06 2928-12 2736-26 293842 294751 285660
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KSAC - Sacramento Executive Airport
+   Latitude:	38-30N
+   Longitude:	121-30W
+   Elevation:	6
+   Station Weather for SAC 9900 2007+12 2309+07 2311+01 2521-14 2621-28 253244 254252 264660
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KSAN - San Diego International \lindbergh Fld
+   Latitude:	32-44N
+   Longitude:	117-11W
+   Elevation:	5
+   Station Weather for SAN 3208 2305+18 2613+11 2419+04 2423-12 2626-24 275039 277049 279057
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KSAT - San Antonio International Airport
+   Latitude:	29-32N
+   Longitude:	098-28W
+   Elevation:	247
+   Station Weather for SAT 1928 1913+14 2807+09 3215+03 3126-11 3033-24 294540 285050 265953
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KSAV - Savannah International Airport
+   Latitude:	32-07N
+   Longitude:	81-12W
+   Elevation:	16
+   Station Weather for SAV 3206 9900+04 2911+02 3021-03 3038-16 3142-30 295944 296851 278752
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for SBA 9900 2505+17 2510+10 2512+03 2526-13 2639-25 265441 266651 269355
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KSEA - Seattle-tacoma International Airport
+   Latitude:	47-27N
+   Longitude:	122-19W
+   Elevation:	131
+   Station Weather for SEA 9900 9900-02 2913-05 2922-07 2739-19 2942-29 295746 306556 305962
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KSFO - San Francisco International Airport
+   Latitude:	37-37N
+   Longitude:	122-22W
+   Elevation:	3
+   Station Weather for SFO 2606 2208+12 2211+08 2310+01 2419-14 2527-27 254043 254552 264859
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KSGF - Springfield-branson National
+   Latitude:	37-14N
+   Longitude:	93-23W
+   Elevation:	386
+   Station Weather for SGF 2249 2739+14 2827+08 3023+00 2829-17 2934-28 294444 294453 295363
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KSHV - Shreveport Regional Airport
+   Latitude:	32-27N
+   Longitude:	93-50W
+   Elevation:	79
+   Station Weather for SHV 2225 2009+12 3311+07 3416+00 3023-15 2931-26 293643 283952 285055
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for SIY      2205+09 2413+04 2717-02 2725-16 2917-28 321344 341454 283262
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KSLC - Salt Lake City International Airport
+   Latitude:	40-47N
+   Longitude:	111-58W
+   Elevation:	1288
+   Station Weather for SLC      3107    2920+07 2726-01 2739-18 2847-30 285946 275754 277258
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for SLN 2157 2433+18 2524+10 2820+01 3136-16 2838-28 285244 295554 296564
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for SPI 2340 2537+08 2825+02 2728-04 2936-17 2837-30 294545 295055 285766
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KSPS - Wichita Falls Sheppard Afb
+   Latitude:	33-59N
+   Longitude:	98-30W
+   Elevation:	309
+   Station Weather for SPS 2056 2340+17 2730+12 2833+03 3121-14 2924-27 303342 303653 294661
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for SSM 2453 2651+03 2632-04 2540-10 2750-20 2850-33 286049 297259 294960
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KSTL - Lambert-st Louis International Airport
+   Latitude:	38-45N
+   Longitude:	90-22W
+   Elevation:	184
+   Station Weather for STL 2343 2635+09 2825+04 2929-03 2934-17 2836-29 294844 294755 285865
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KSYR - Syracuse Hancock International Airport
+   Latitude:	43-07N
+   Longitude:	76-06W
+   Elevation:	125
+   Station Weather for SYR 2816 2923-03 2927-07 3029-11 3134-25 3340-35 334651 323956 294055
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for T01 3008 0306+10 2807+08 3209+02 2820-12 2833-24 284740 276249 267451
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for T06 1105 9900+12 3309+08 3218+02 3020-13 2936-24 285140 276849 277351
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for T07 0411 0705+09 3209+07 3213+01 3124-12 2936-24 285739 277448 278252
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for TCC      2911    2817+13 2727+05 2833-14 2836-26 284342 284952 285562
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KTLH - Tallahassee Regional Airport
+   Latitude:	30-24N
+   Longitude:	84-21W
+   Elevation:	25
+   Station Weather for TLH 3606 9900+06 3312+05 3117-01 3024-14 2933-26 284642 285650 277852
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for TRI      2816+01 2922-02 3024-05 3139-18 3248-30 335447 326356 295158
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KTUL - Tulsa International Airport
+   Latitude:	36-12N
+   Longitude:	95-53W
+   Elevation:	206
+   Station Weather for TUL 2248 2434+17 2719+09 2823+01 2925-16 3032-28 304243 304753 294963
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KTUS - Tucson International Airport
+   Latitude:	32-08N
+   Longitude:	110-57W
+   Elevation:	805
+   Station Weather for TUS      3109+20 3114+13 2717+06 2619-13 2733-25 283639 295748 298157
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for TVC 2356 2745+05 2731-01 2733-08 2840-20 2847-32 295548 296758 295964
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KTYS - Mcghee Tyson Airport
+   Latitude:	35-49N
+   Longitude:	083-59W
+   Elevation:	299
+   Station Weather for TYS 2707 2514+02 3019+01 3223-03 3138-17 3144-30 324246 325355 305961
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for WJF      2713+17 2512+10 2514+03 2524-12 2634-24 265042 266251 278856
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+KYKM - Yakima Air Terminal
+   Latitude:	46-34N
+   Longitude:	120-32W
+   Elevation:	334
+   Station Weather for YKM 3115 2408+01 2711-03 2917-06 2835-19 2942-30 305646 306556 306262
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for ZUN              2823+12 2819+04 2928-13 2834-27 284741 285251 285960
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for 2XG 3505 0110+05 3213-01 3222-03 2948-14 2765-26 268240 269748 760349
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
+
+   Station Weather for 4J3 0409 0808+07 3311+07 3014+00 2926-12 2840-24 276539 278647 269852
+   At 03,000 feet:	 Dir:  N/A	Speed:  N/A	Temp: N/A
+   At 06,000 feet:	 Dir:  220	Speed:   30	Temp: +18
+   At 09,000 feet:	 Dir:  270	Speed:   26	Temp: +12
+   At 12,000 feet:	 Dir:  290	Speed:   29	Temp: +04
+   At 18,000 feet:	 Dir:  310	Speed:   27	Temp: -12
+   At 24,000 feet:	 Dir:  300	Speed:   28	Temp: -26
+   At 30,000 feet:	 Dir:  300	Speed:   29	Temp: -42
+   At 34,000 feet:	 Dir:  310	Speed:   39	Temp: -52
+   At 39,000 feet:	 Dir:  290	Speed:   43	Temp: -60
